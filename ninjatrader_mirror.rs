@@ -13,10 +13,10 @@ fn main() {
     env::set_var("MD_URL", "wss://md.tradovateapi.com/v1/websocket");
     env::set_var("MD_DEMO_URL", "wss://md-demo.tradovateapi.com/v1/websocket");
     env::set_var("REPLAY_URL", "wss://replay.tradovateapi.com/v1/websocket");
-    env::set_var("USER", "epictetzu");
-    env::set_var("PASS", "fLzQ7t6$oP");
-    env::set_var("SEC", "bfbebc02-cc44-4f76-9976-b95e6520a853");
-    env::set_var("CID", "556");
+    env::set_var("USER", "user_name");
+    env::set_var("PASS", "account_pass");
+    env::set_var("SEC", "your_api_key");
+    env::set_var("CID", "your_CID");
     env::set_var("ACCESS_TOKEN", "Not Set");
     env::set_var("MD_ACCESS_TOKEN", "Not Set");
     env::set_var("TOKEN_EXPIRATION", "Not Set");
